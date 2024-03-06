@@ -1,2 +1,2 @@
-# gemma-finetuning
-Repository for fine-tuning gemma models using unsloth for indic languages 
+# Indic-gemma-7b-Navarasa
+Repository of finetuning Gemma 7B/ 2B models on 9 Indian Languages.
